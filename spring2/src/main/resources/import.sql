@@ -1,0 +1,1 @@
+INSERT INTO PERSON (firstName,lastName) VALUES ('Joe','Doe') ;
